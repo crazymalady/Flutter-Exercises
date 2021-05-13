@@ -1,5 +1,7 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+## OUTPUT
+![Personal-Mi-Card](https://github.com/crazymalady/Flutter-Exercises/blob/main/mi_card_flutter/_ssoutput/out_mi_card_app.png)
 
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 # Mi Card
 
 ## Our Goal
